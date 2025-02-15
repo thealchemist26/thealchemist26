@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects related to Mass spectrometric data processing and analysis 
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Photons are can't find where I am. I am in darkness (someone pay my utility bills)
+- ⚡ Fun fact: Photons can't find where I am. I am in darkness (someone pay my utility bills)
 
 <!---
 thealchemist26/thealchemist26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
