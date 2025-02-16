@@ -2,7 +2,6 @@
 - 👀 I’m interested in Mass spectral data processing and analysis
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Projects related to Mass spectrometric data processing and analysis 
-- 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Photons can't find where I am. I am in darkness (someone pay my utility bills)
 
