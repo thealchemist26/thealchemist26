@@ -7,14 +7,14 @@
 
 
 
-⠀🧶 /\   /\
-ฅ( • ﻌ • ฅ)
+     /\   /\
+   ฅ( • ﻌ • ฅ)
   \ \      \ \
     \           \
        \    _    |
          \ |   \ |  \__
-          \〕 \〕       \
-
+          \〕 \〕       \            
+                                        
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <!---
 thealchemist26/thealchemist26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
